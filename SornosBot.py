@@ -1,7 +1,7 @@
 import requests
 
 TOKEN = 'ТОКЕН БОТА'
-CHAT_ID = '1673134064'
+CHAT_ID = 'ID чата'
 
 message = "ПеКарня включилась."
 
